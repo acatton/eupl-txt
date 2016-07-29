@@ -95,7 +95,7 @@ para que el licenciatario haga uso de los derechos sobre la obra otorgados por
 la presente licencia.
 
 
-3. Comunicación del Código Fuente
+    3. Comunicación del Código Fuente
 
 El licenciante podrá suministrar la obra en forma de código fuente o código
 ejecutable. Si la suministrara en forma de código ejecutable, deberá facilitar
@@ -107,7 +107,7 @@ manera gratuita durante el período en que el licenciante siga distribuyendo o
 comunicando la obra.
 
 
-4. Limitaciones a los derechos de autor
+    4. Limitaciones a los derechos de autor
 
 En ningún caso podrá interpretarse la presente licencia de modo que prive al
 licenciatario de los beneficios de los que pudiera disfrutar como consecuencia
@@ -116,7 +116,7 @@ los derechos de la obra original o del programa de ordenador, de la extinción
 de dichos derechos o de cualquier otra limitación aplicable.
 
 
-5. Obligaciones del licenciatario
+    5. Obligaciones del licenciatario
 
 La cesión de los derechos en virtud de la presente licencia queda supeditada a ciertas
 restricciones u obligaciones que habrá de respetar el licenciatario. Dichas
